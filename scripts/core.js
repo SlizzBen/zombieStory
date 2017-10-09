@@ -1,4 +1,6 @@
-﻿var Core = {};
+﻿//last test
+
+var Core = {};
 Core.div = null;
 Core.createdDivs = [];
 Core.screen = [1000, 500];
